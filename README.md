@@ -28,5 +28,5 @@ opencv-python==3.4.0+contrib
 ## Docker:
 ```docker rm --force rugby_pipeline```
 
-```docker run --name rugby_pipeline -ti -v c:/Users/NethikaSuraweera/Documents/camera_age_gender_ethnicity_pipeline:/srv/rugby rugby_image /bin/bash```
+```docker run --name rugby_pipeline -ti -v c:/Users/NethikaSuraweera/Documents/camera_age_gender_ethnicity_pipeline:/srv/run r_image /bin/bash```
 
