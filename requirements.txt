@@ -1,0 +1,8 @@
+Keras==2.1.5
+imutils==0.4.5
+numpy==1.13.3
+dlib==19.8.1
+scikit-image==0.13.1
+scikit-learn==0.19.0
+scipy==1.0.0
+opencv-python==3.4.0.14
