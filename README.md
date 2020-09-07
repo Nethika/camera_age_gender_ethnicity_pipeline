@@ -26,7 +26,7 @@ opencv-python==3.4.0+contrib
 ```run/faceid_age_gender_ethnicity.py``` writes the face IDs,age, gender and ethnicity into the file: ```hashes/faces_json.json```
 
 ## Docker:
-```docker rm --force rugby_pipeline```
+```docker rm --force pipeline```
 
-```docker run --name rugby_pipeline -ti -v c:/Users/NethikaSuraweera/Documents/camera_age_gender_ethnicity_pipeline:/srv/run r_image /bin/bash```
+```docker run --name pipeline -ti -v c:/Users/NethikaSuraweera/Documents/camera_age_gender_ethnicity_pipeline:/srv/run r_image /bin/bash```
 
